@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dhesega
-- 👀 I’m interested in design & product
-- 🌱 I’m currently learning front end 
-- 📫 How to reach me - https://twitter.com/dhesega
+- 👀 interested in design & product
+- 📫 reach me - https://twitter.com/dhesega
 
 <!---
 dhesega/dhesega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
